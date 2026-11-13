@@ -7,7 +7,6 @@ Solutions are organized by topic and/or problem, with filenames based on the pro
 ## Languages
 
 - JavaScript
-- Python
 
 ## Topics
 
